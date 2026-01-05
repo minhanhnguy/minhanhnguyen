@@ -54,9 +54,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Minh Anh Nguyen
+          subtitle: "I am a undergraduate student at the Texas Tech University. My research focuses on Portuguese irregular verbs."
+          imageUrl: ""
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -72,20 +72,14 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:MinhAnh.Nguyen@ttu.edu
         - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://www.google.com/maps/place/Lubbock/data=!4m2!3m1!1s0x86fe12add37ddd39:0x1af0042922e84287?sa=X&ved=1t:155783&ictx=111
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
@@ -107,7 +101,7 @@ params:
     label:
       text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 20
 
 markup:
     goldmark:
